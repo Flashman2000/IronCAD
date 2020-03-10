@@ -1,0 +1,5 @@
+This file contains the STEP files for REV-45-1507. Below are the common names for the REV part numbers in the kit:
+REV-41-1511 - End Cap
+REV-41-1512 - Pulley Cover
+REV-41-1519 - Slider Plate
+REV-41-1520 - Double Sided Slider
